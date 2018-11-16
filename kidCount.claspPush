@@ -1,0 +1,25 @@
+#FILE .clasp.json
+{
+  "scriptId": "1aEVsYkqyRpb3TaydEWJA1eIvQo7epn_sgy8zOV_NrxlFD9_TulsKxA41"
+}
+
+#FILE appsscript.json
+{
+  "timeZone": "Asia/Taipei",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER"
+}
+
+#PUSHlIST
+
+git_modules/assistant.gas/src/gasInit.js
+git_modules/assistant.gas/src/juruo.js
+git_modules/assistant.gas/src/gasdb.js
+git_modules/assistant.gas/src/timeStamping.js
+git_modules/assistant.gas/src/gasWebRecorder.js
+git_modules/assistant.gas/src/tgbot.js
+lib/config.js
+src/juruo_zh_TW.js
+src/kidCount.js
+src/index_kidCount.js
+

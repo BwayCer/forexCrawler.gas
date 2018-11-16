@@ -1,0 +1,4 @@
+[submodule "git_modules/assistant.gas"]
+	path = git_modules/assistant.gas
+	url = git@github.com:BwayCer/assistant.gas.git
+	branch = develop_v2_remainUnhandled
